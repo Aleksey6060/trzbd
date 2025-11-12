@@ -1,0 +1,27 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug",
+      "deviceId": "chrome"
+    },
+    {
+      "name": "Flutter (Windows)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug",
+      "deviceId": "windows"
+    },
+    {
+      "name": "Flutter (All Devices)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug"
+    }
+  ]
+}
+
+
